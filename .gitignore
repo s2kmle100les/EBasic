@@ -1,0 +1,22 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Other temporary files
+*.log
+*.tmp
